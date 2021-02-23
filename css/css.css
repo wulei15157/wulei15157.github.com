@@ -1,0 +1,289 @@
+* {
+	font-family: "微软雅黑";
+	font-size: 12px;
+ }
+body, html, div, blockquote, img, label, p, h1, h2, h3, h4, h5, h6, pre, ul, ol, li, dl, dt, dd, form, a, fieldset, input, th, td {
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+	outline: none;
+}
+ul, ol {
+	list-style: none;
+}
+span {
+	display: -moz-inline-box;
+	display: inline-block;
+}
+.m1 {
+	width: 1202px;
+	margin: 0px auto;
+	overflow: hidden;
+}
+.m1 >img {
+	margin-top: 20px;
+	float: left;
+}
+.m1 >div >img {
+	float: right;
+}
+.m1 >div {
+float:!important;
+	overflow: hidden;
+}
+.ssk {
+	width: 600px;
+	float: left;
+	margin-left: 176px;
+	overflow: hidden;
+}
+.ssk div {
+	width: 600px;
+	height: 36px;
+    margin-top: 35px;
+	overflow: hidden;
+	border: 2px solid #EA222C;	 
+
+}
+.ssk div input {
+ 	display:block;
+	width: 500px;
+	height: 36px;
+	line-height: 36px;
+	float: left;
+ 
+}
+.ssk div button {
+	line-height: 36px;
+	overflow: hidden;
+	text-align: center;
+	height: 36px;
+	width: 100px;
+	background-color: #EA222C;
+	color: #ffffff;
+	border: none;
+}
+.ssk span {
+	width: 600px;
+	height: 28px;
+	line-height: 28px;
+}
+.ssk span a {
+	margin-left: 12px;
+	font-size: 12px;
+	text-decoration: none;
+	color: #6E6E6E;
+}
+.ssk span a:hover {
+	color: #FF6600;
+}
+.ssk span a:first-child {
+	margin-left: 1px;
+}
+.ky {
+	text-align: center;
+	height: 436px;
+	width: 100%;
+	background: url(../images/toubudi.jpg) center bottom repeat;
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+.ky img {
+	width: 1200px;
+	height: 436px;
+	padding: 0px;
+	margin: 0px;
+	vertical-align: middle;
+}
+#div1 >img {
+	float: left;
+}
+#div1 {
+	position: relative;
+	width: 1202px;
+	height: 166px;
+	margin: 0px auto;
+	overflow: hidden;
+}
+#div1 >div {
+	width: 1004px;
+	overflow: hidden;
+	position: relative;
+	height: 166px;
+	float: left
+}
+#div1 >div >div {
+ 	width: 2008px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+#div1 >div >div ul {
+	float: left;
+}
+#div1 >div >div ul li {
+	width: 1004px;
+	height: 166px;
+	float: left;
+    overflow:hidden;
+
+}
+#div1 >div >div ul li a img {
+	width: 250px;
+	height: 166px;
+	float: left;
+	margin-left: 1px;
+}
+body > strong {
+	width: 1200px;
+	font-size: 22px;
+	line-height: 24px;
+	height: 22px;
+	display: block;
+	margin: 0px auto;
+	margin-top: 20px;
+ }
+.nr {
+	width: 1202px;
+	margin: 0px auto;
+	margin-bottom: 100px;
+	overflow:hidden;
+}
+.nr ul {
+	overflow: hidden;
+}
+.nr ul li {
+	position: relative;
+	width: 1206px;
+	height:auto;
+  	overflow: hidden;
+}
+.cp {  
+	margin-top: 20px;
+	overflow: hidden;
+	width: 392px;
+	border: 1px solid #DCDCDC;
+	float: left;
+}
+.nr ul li div+div {
+	margin-left: 8px;
+}
+.cp:hover {
+	border: 3px solid red;
+}
+.cp img {
+	width: 392px;
+	height: 313px;
+}
+.ml_8 {
+	margin-left: 8px;
+}
+.ml_9 {
+	margin-left: 9px;
+}
+.cp >span {
+	font-size: 14px;
+	color: #272727;
+	float: left;
+	margin-left: 10px;
+	margin-top: 4px;
+	margin-bottom: 6px;
+}
+.cp >font {
+	float: right;
+	font-size: 14px;
+	margin-right: 8px;
+	color: #FA043F;
+	height: 24px;
+	line-height: 24px;
+}
+.cp > div {
+	color: #ffffff;
+	height: 54px;
+	width: 392px;
+	float: left;
+	background-image: url(../images/anniu.png);
+}
+.cp > div >font {
+	font-size: 22px;
+	margin-left: 11px;
+	height: 17px;
+	line-height: 17px;
+	margin-top: 25px;
+	float: left;
+}
+.cp > div >span {
+	font-size: 40px;
+	margin-left: 7px;
+	height: 31px;
+	float: left;
+	line-height: 31px;
+	margin-top: 11px;
+}
+.cp > div >a {
+	line-height: 54px;
+	height: 54px;
+	font-size: 18px;
+	color: #EE0B1B;
+	float: right;
+	margin-right: 23px;
+}
+.cp >div >div {
+	overflow: hidden;
+	margin-top: 11px;
+	width: 150px;
+	float: left;
+}
+.cp >div >div >div {
+	margin-left: 10px;
+	width: 150px;
+	float: left;
+	font-size: 14px;
+}
+.cp >div >div >div >font {
+	text-decoration: line-through;
+	font-size: 14px;
+	height: 12px;
+	line-height: 12px;
+}
+.cp >div >div >div >span {
+	margin-top: 2px;
+	font-size: 16px;
+	color: #FFFC00;
+	font-weight: bold;
+}
+.dibu {
+	color: #585757;
+	height: 170px;
+	width: 100%;
+	border-top: 2px solid #E6212A;
+	background-color: #F7F6F6;
+}
+.dibu >div {
+	width:1200px;
+	margin:0px auto;
+	margin-top: 30px;
+	overflow: hidden;
+	text-align: center;
+
+}
+.dibu >div a:first-child {
+	margin-left: 0px;
+}
+.dibu >div a:last-child {
+	margin-right: 0px;
+}
+.dibu >div a {
+	margin-left: 10px;
+	margin-right: 10px;
+	color: #585757;
+	text-decoration: none;
+}
+.dibu >div span {
+	display: block;
+	margin-top: 19px;
+}
+.dibu >div span+span {
+	margin-top: 16px;
+}
+   /*.nr div > div canvas{ height:54px; width:120px;FILTER: progid:DXImageTransform.Microsoft.Gradient(gradientType=0,startColorStr=#FFF691,endColorStr=#FFE341);background: -ms-linear-gradient(top, #FFF691,#FFE341);background:-moz-linear-gradient(top,#FFF691,#FFE341);background:-webkit-gradient(linear, 0% 0%, 0% 100%,from(#FFF691), to(#FFE341));background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#FFF691), to(#FFE341));background: -webkit-linear-gradient(top, #FFF691,#FFE341);background: -o-linear-gradient(top, #FFF691,#FFE341); background-color:#FFE341; }*/

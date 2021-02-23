@@ -1,0 +1,176 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {
+	font-family: "微软雅黑";
+	font-size: 12px;
+}
+body, html, div, blockquote, img, label, p, h1, h2, h3, h4, h5, h6, pre, ul, ol, li, dl, dt, dd, form, a, fieldset, input, th, td {
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+	outline: none;
+}
+ul, ol {
+	list-style: none;
+}
+.tb {
+	margin-top: 11px;
+	width: 100%;
+	overflow: hidden;
+}
+.neirong {
+	width: 100%;
+	overflow: hidden;
+}
+.zhuti {
+	width: 1241px;
+	height: auto;
+	margin: 0px auto;
+	overflow: hidden;
+	margin-bottom:100px;
+}
+.mokuai {
+	width: 935px;
+	height: 354px;
+	margin-top: 36px;
+	overflow: hidden;
+}
+.mk_bt {
+	height: 40px;
+	width: 100%;
+	line-height: 40px;
+	background-color: #E6212A;
+	width: 100%;
+	text-align: left;
+	color: #ffffff;
+	font-size: 14px;
+}
+.mk_jy {
+	overflow: hidden;
+	font-size: 24px;
+	margin-left: 10px;
+}
+.ml_6 {
+	margin-left: 6px;
+}
+.mk_gd {
+	float: right;
+	margin-right: 22px;
+	margin-top: 3px;
+}
+.mk_nrbf {
+	overflow: hidden;
+	margin-left: 1px;
+	margin-top: 1px;
+	margin-top: 11px;
+}
+.zuoF {
+	float: left;
+}
+.mk_zbf {
+	float: left;
+	margin-left: 31px;
+	display: inline;
+}
+.mk_zxxr {
+	overflow: hidden;
+	width: 200px;
+	font-size: 20px;
+	position: relative;
+	right: 10px;
+}
+.mk_zxx {
+	line-height: 28px;
+	margin-bottom: 6px;
+	margin-top: 3px;
+	font-size: 16px;
+	color: #727270;
+}
+.zi_qh {
+	color: #A3A3A3;
+}
+.zi_ls {
+	color: #0288CE
+}
+.mk_sdgz {
+	line-height: 43px;
+	font-size: 16px;
+	margin-top: 10px;
+	color: #0B0B0B;
+}
+.zhuti_y {
+	margin-left: 8px;
+}
+.mokuai_y1 {
+	border: 1px solid #DDDCDD;
+	margin-top: 36px;
+	margin-bottom: 17px;
+	width: 288px;
+	background-image: url(../images/you1.jpg);
+	width: 290px;
+	height: 354px;
+}
+.mokuai_y2 {
+	height: 44px;
+	line-height: 44px;
+	font-size: 24px;
+	margin-top: 11px;
+}
+.mokuai_y3 {
+	border: 1px solid #DDDCDD;
+	width: 288px;
+}
+.mk_y4gd {
+	float: right;
+	color: #989898;
+	margin-top: 5px;
+	margin-right: 6px;
+}
+.mk_ywd {
+	width: 260px;
+	height: 66px;
+	border-bottom: 1px dashed #DCDCDC;
+	margin: 0px auto;
+ 
+    }
+	.mk_ywd22 {
+	width: 260px;
+	height: 67px;
+ 	margin: 0px auto;
+  }
+.mk_ywd1 {
+	 font-size: 14px;
+	color: #1D1D1D;
+	position:relative; top:15px;
+  }
+.mk_ywd11 {
+	font-size: 12px;
+	color: #919191;
+	margin-top: 4px;
+}
+.input1 {
+	color: #999999;
+	width: 100px;
+	height: 38px;
+	margin-top: 125px;
+	margin-left: 112px;
+	padding-left: 10px;
+}
+.input2 {
+	width: 129px;
+	height: 38px;
+	margin-top: 10px;
+	margin-left: 112px;
+	color: #999999;
+	padding-left: 10px;
+}
+.button {
+	width: 132px;
+	height: 48px;
+	font-size: 18px;
+	border: 1px solid #DDDCDD;
+	background-color: #F39801;
+	margin-left: 114px;
+	margin-top: 51px;
+}
